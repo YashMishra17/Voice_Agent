@@ -31,19 +31,19 @@ Detects user intent (confirmation, objection, offer) via rule-based logic.
 
 **🏗️ System Architecture**
 
-High-Level Flow
+|High-Level Flow
 
-User Speech
+|User Speech
    ↓
-Speech-to-Text (Whisper)
+|Speech-to-Text (Whisper)
    ↓
-Intent Detection + Dialogue State Manager
+|Intent Detection + Dialogue State Manager
    ↓
-Response Selection (Rule-Based Logic)
+|Response Selection (Rule-Based Logic)
    ↓
-Text-to-Speech
+|Text-to-Speech
    ↓
-Agent Speech Output
+|Agent Speech Output
 
 Data Flow Explanation
 
@@ -188,3 +188,4 @@ voice_agent_submission/
     
 
     
+
