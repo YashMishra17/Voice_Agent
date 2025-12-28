@@ -1,0 +1,5 @@
+User: Hi, I want to cancel my subscription.
+Agent: I understand you want to cancel. May I ask why?
+User: I don’t need it anymore.
+Agent: I see. We'll proceed with the cancellation. Thank you for your time.
+Agent: Goodbye!
