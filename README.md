@@ -1,4 +1,4 @@
-#Autonomous AI Voice Agent (Local & Open-Source)
+Autonomous AI Voice Agent (Local & Open-Source)
 Project Overview
 
 This project implements a local, autonomous AI voice agent designed to handle a narrow, real-world customer support scenario:
@@ -16,4 +16,5 @@ Context awareness through explicit memory
 Safe and explainable autonomy
 
 All components run locally, using only open-source models, with no paid or hosted APIs.
+
 
